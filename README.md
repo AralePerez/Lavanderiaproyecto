@@ -33,10 +33,10 @@ Fue desarrollado utilizando PHP, MySQL y RedBeanPHP, con una interfaz web sencil
 
 
 # Repositorio del proyecto
-https://github.com/tu-usuario/lavanderia
+https://github.com/AralePerez/Lavanderiaproyecto
 
 # Página web oficial del proyecto
-https://tuproyecto.infinityfreeapp.com
+https://www.basedatos.kesug.com/index.php?
 
 # Versión estática (GitHub Pages)
 https://tu-usuario.github.io/lavanderia/
