@@ -38,6 +38,5 @@ https://github.com/AralePerez/Lavanderiaproyecto
 # Página web oficial del proyecto
 https://www.basedatos.kesug.com/index.php?
 
-# Versión estática (GitHub Pages)
-https://tu-usuario.github.io/lavanderia/
+
 
